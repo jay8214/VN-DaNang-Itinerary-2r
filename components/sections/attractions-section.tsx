@@ -9,28 +9,28 @@ export function AttractionsSection() {
     {
       name: "山茶半島",
       image:
-        "https://images.unsplash.com/photo-1620200422752-a6c8b8b8b8b8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80", // Updated image
+        "https://image.cdn-eztravel.com.tw/aLVfUHk1-FPoQKyM0OzYXQMLeBJEWqan5Gqb6KBxoro/g:ce/aHR0cHM6Ly92YWNhdGlvbi5jZG4tZXp0cmF2ZWwuY29tLnR3L2ltZy9WRFIvVklfMTQ0MjQwNjYxMS5qcGc.jpg", // Updated image
       description: "島上有一座知名的靈應寺，地理位置優越，不管從寺廟哪個角度都可以眺望到大海。",
       rating: 4.8,
     },
     {
       name: "巴拿山黃金橋",
       image:
-        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://vietnamtravel.com/images/2020/04/golden-bridge-bana-hills.jpg",
       description: "由巨大石手托起的金色橋樑，Instagram熱門打卡景點。",
       rating: 4.9,
     },
     {
       name: "會安古鎮",
       image:
-        "https://images.unsplash.com/photo-1593693397690-ed401d816ae8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80", // Updated image
+        "https://hiddenhoian.com/wp-content/uploads/2019/07/lantern-lined-streets.jpg", // Updated image
       description: "世界文化遺產，保存完好的古老貿易港口，夜晚燈籠璀璨。",
       rating: 4.7,
     },
     {
       name: "美溪沙灘",
       image:
-        "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://static.vinwonders.com/2022/09/My-khe-beach-1.jpeg",
       description: "綿延30公里的白沙灘，被美國《富比世》評為世界最美海灘之一。",
       rating: 4.6,
     },

@@ -41,9 +41,9 @@ export function CoverSection() {
           initial={{ y: -50, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
           transition={{ delay: 0.2 }}
-          className="text-6xl md:text-8xl font-bold mb-8 drop-shadow-2xl"
+          className="text-6xl md:text-8xl font-bold mb-8 drop-shadow-2xl mt-14"
         >
-          越南峴港
+          越南-峴港 
         </motion.h1>
 
         <motion.div
