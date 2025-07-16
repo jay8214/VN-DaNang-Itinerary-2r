@@ -57,7 +57,7 @@ export function CoverSection() {
               className="w-full h-full rounded-full bg-cover bg-center"
               style={{
                 backgroundImage:
-                  "url('https://images.unsplash.com/photo-1559592413-7cec4d0cae2b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80')",
+                  "url('https://media.istockphoto.com/id/1451115820/zh/%E5%90%91%E9%87%8F/vietnam-travel-landmark-vector-illustrations-set.jpg?s=1024x1024&w=is&k=20&c=2cGE_w7lrrWriRHy5Ieh4LX7dfsWmAqmYojMBRwWurw=')",
               }}
             />
           </div>
